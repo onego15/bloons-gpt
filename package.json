@@ -1,0 +1,1 @@
+{"name":"mosslight","version":"1.0.0","private":true,"description":"An original illustrated forest tower-defense game","scripts":{"start":"node serve.cjs","check":"node --check game.js"}}
